@@ -1,0 +1,12 @@
+---
+title: Gopher and Gemini
+date: 2021-03-17 18:15:00 +00:00
+author: nikdoof
+---
+We now fully support Gopher and Gemini hosting. Regular users would of notice the appearance of `public_gopher` and `public_gemini` folders, which are hosted at their related endpoints:
+
+* HTTPS: https://dimension.sh/~username
+* Gopher: gopher://dimension.sh/1/~username
+* Gemini: gemini://dimension.sh/~username
+
+If you need an example, Gophermap or GMI you can copy the files from `/etc/skel/`. New users will have these files available to them on account creation.
