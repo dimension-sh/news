@@ -1,0 +1,10 @@
+---
+title: Tradewars Server is Back!
+date: 2022-05-12 09:16:00 +01:00
+author: nikdoof
+---
+Tradewars is back! The server is back up and running and the Dimension game has been opened. 
+
+The server is available at `tw2002.dimension.sh` port `2002`. For dimension users you can login to your account and run `tw2002` from the command line. That'll open a telnet client that'll be setup to handle the awesome ANSI art.
+
+This game is open to all, if you're playing then drop into #tw2002 on Tildeverse IRC.
